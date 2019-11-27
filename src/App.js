@@ -1,26 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
+import mediumIntense from './audio/Medium_Intense.mp3'
+import superIntense from './audio/Super_Intense.mp3'
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+
+	render () {
+		return (
+			<div className='App'>
+				<ul>
+					<li><h3>Super Intense</h3> <audio ref='super' src={superIntense} controls loop/></li>
+					<br></br>
+					<li><h3>Medium Intense</h3> <audio ref='medium' src={mediumIntense} controls loop/></li>
+					<br></br>
+				</ul>
+			</div>
+			
+		);
+	}
 }
 
 export default App;
