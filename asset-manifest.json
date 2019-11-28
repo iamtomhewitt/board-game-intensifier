@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/board-game-intensifier/static/css/main.555d3e52.chunk.css",
+    "main.js": "/board-game-intensifier/static/js/main.a764f332.chunk.js",
+    "main.js.map": "/board-game-intensifier/static/js/main.a764f332.chunk.js.map",
+    "runtime-main.js": "/board-game-intensifier/static/js/runtime-main.8ae6c97b.js",
+    "runtime-main.js.map": "/board-game-intensifier/static/js/runtime-main.8ae6c97b.js.map",
+    "static/js/2.d7866121.chunk.js": "/board-game-intensifier/static/js/2.d7866121.chunk.js",
+    "static/js/2.d7866121.chunk.js.map": "/board-game-intensifier/static/js/2.d7866121.chunk.js.map",
+    "index.html": "/board-game-intensifier/index.html",
+    "precache-manifest.b0560d944fcd8fa9ddf9f70132e1b010.js": "/board-game-intensifier/precache-manifest.b0560d944fcd8fa9ddf9f70132e1b010.js",
+    "service-worker.js": "/board-game-intensifier/service-worker.js",
+    "static/css/main.555d3e52.chunk.css.map": "/board-game-intensifier/static/css/main.555d3e52.chunk.css.map",
+    "static/media/are-you-sure.mp3": "/board-game-intensifier/static/media/are-you-sure.cc4c01dc.mp3",
+    "static/media/chris-tarrent.mp3": "/board-game-intensifier/static/media/chris-tarrent.6b68adc0.mp3",
+    "static/media/clock-telephone.mp3": "/board-game-intensifier/static/media/clock-telephone.24abf496.mp3",
+    "static/media/correct-4.mp3": "/board-game-intensifier/static/media/correct-4.18c53f70.mp3",
+    "static/media/intro-5.mp3": "/board-game-intensifier/static/media/intro-5.73621f56.mp3",
+    "static/media/music-easy.mp3": "/board-game-intensifier/static/media/music-easy.5693e71c.mp3",
+    "static/media/music-expert.mp3": "/board-game-intensifier/static/media/music-expert.9f40df4f.mp3",
+    "static/media/music-hard.mp3": "/board-game-intensifier/static/media/music-hard.484de5f7.mp3",
+    "static/media/music-medium.mp3": "/board-game-intensifier/static/media/music-medium.917ca99b.mp3",
+    "static/media/showdown-1.mp3": "/board-game-intensifier/static/media/showdown-1.20864f8d.mp3",
+    "static/media/wrong-answer-2.mp3": "/board-game-intensifier/static/media/wrong-answer-2.d02d38e3.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae6c97b.js",
+    "static/js/2.d7866121.chunk.js",
+    "static/css/main.555d3e52.chunk.css",
+    "static/js/main.a764f332.chunk.js"
+  ]
+}
