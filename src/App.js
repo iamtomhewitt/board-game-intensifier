@@ -12,45 +12,32 @@ import selectAnswer from './audio/are-you-sure.mp3'
 import showdown from './audio/showdown-1.mp3'
 import wrongAnswer from './audio/wrong-answer-2.mp3'
 
+import { version } from '../package.json';
+
 import './App.css';
 
 const App = () => (
   <div className='App'>
-    <ul>
-      <li><h3>Let's Play</h3> <audio src={play} controls /></li>
-      <br></br>
-
-      <li><h3>Showdown</h3> <audio src={showdown} controls /></li>
-      <br></br>
-
-      <li><h3>Clock</h3> <audio src={clock} controls loop /></li>
-      <br></br>
-
-      <li><h3>Select Answer</h3> <audio src={selectAnswer} controls loop /></li>
-      <br></br>
-
-      <li><h3>Easy Music</h3> <audio src={easyMusic} controls loop /></li>
-      <br></br>
-
-      <li><h3>Medium Music</h3> <audio src={mediumMusic} controls loop /></li>
-      <br></br>
-
-      <li><h3>Hard Music</h3> <audio src={hardMusic} controls loop /></li>
-      <br></br>
-
-      <li><h3>Intense Music</h3> <audio src={harderMusic} controls loop /></li>
-      <br></br>
-
-      <li><h3>Wrong Answer</h3> <audio src={wrongAnswer} controls /></li>
-      <br></br>
-
-      <li><h3>Correct Answer</h3> <audio src={correctAnswer} controls /></li>
-      <br></br>
-
-      <li><h3>Chris Tarrent</h3> <audio src={christTarrent} controls /></li>
-      <br></br>
-    </ul>
+    <div>v{version}</div>
+    {createSound('Let\'s Play', play, false)}
+    {createSound('Showdown', showdown, false)}
+    {createSound('Clock', clock, true)}
+    {createSound('Select Answer', selectAnswer, false)}
+    {createSound('Easy Music', easyMusic, true)}
+    {createSound('Medium Music', mediumMusic, true)}
+    {createSound('Hard Music', hardMusic, true)}
+    {createSound('Intense Music', harderMusic, true)}
+    {createSound('Correct Answer', correctAnswer, true)}
+    {createSound('Wrong Answer', wrongAnswer, true)}
+    {createSound('Chris Tarrent', christTarrent, true)}
   </div>
 );
+
+const createSound = (name, src, loop) => (
+  <div className='sound'>
+    <h3>{name}</h3> <audio src={src} controls loop={loop} />
+    <br />
+  </div >
+)
 
 export default App;
