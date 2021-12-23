@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87a6cad3af571d5818d191040ba2fa80",
+    "revision": "7d589dc159f48d0b24e995da057f79d8",
     "url": "/board-game-intensifier/index.html"
   },
   {
-    "revision": "c9931fdfcd9da4557155",
-    "url": "/board-game-intensifier/static/css/main.555d3e52.chunk.css"
+    "revision": "46002f3d13240519d7a2",
+    "url": "/board-game-intensifier/static/css/main.18f934c7.chunk.css"
   },
   {
-    "revision": "dbe2bfc3a1c2443613a8",
-    "url": "/board-game-intensifier/static/js/2.d7866121.chunk.js"
+    "revision": "58b8b65a739319730fcc",
+    "url": "/board-game-intensifier/static/js/2.b53c8b4d.chunk.js"
   },
   {
-    "revision": "c9931fdfcd9da4557155",
-    "url": "/board-game-intensifier/static/js/main.a764f332.chunk.js"
+    "revision": "570d362d673dab785e62d2b8563e1118",
+    "url": "/board-game-intensifier/static/js/2.b53c8b4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41841a24b4cd14e892c4",
-    "url": "/board-game-intensifier/static/js/runtime-main.8ae6c97b.js"
+    "revision": "46002f3d13240519d7a2",
+    "url": "/board-game-intensifier/static/js/main.38df06ff.chunk.js"
+  },
+  {
+    "revision": "600fe9bc151a08b2c035",
+    "url": "/board-game-intensifier/static/js/runtime-main.69380010.js"
   },
   {
     "revision": "cc4c01dc666be7988f5886c852cff0b7",

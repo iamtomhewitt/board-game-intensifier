@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/board-game-intensifier/static/css/main.555d3e52.chunk.css",
-    "main.js": "/board-game-intensifier/static/js/main.a764f332.chunk.js",
-    "main.js.map": "/board-game-intensifier/static/js/main.a764f332.chunk.js.map",
-    "runtime-main.js": "/board-game-intensifier/static/js/runtime-main.8ae6c97b.js",
-    "runtime-main.js.map": "/board-game-intensifier/static/js/runtime-main.8ae6c97b.js.map",
-    "static/js/2.d7866121.chunk.js": "/board-game-intensifier/static/js/2.d7866121.chunk.js",
-    "static/js/2.d7866121.chunk.js.map": "/board-game-intensifier/static/js/2.d7866121.chunk.js.map",
+    "main.css": "/board-game-intensifier/static/css/main.18f934c7.chunk.css",
+    "main.js": "/board-game-intensifier/static/js/main.38df06ff.chunk.js",
+    "main.js.map": "/board-game-intensifier/static/js/main.38df06ff.chunk.js.map",
+    "runtime-main.js": "/board-game-intensifier/static/js/runtime-main.69380010.js",
+    "runtime-main.js.map": "/board-game-intensifier/static/js/runtime-main.69380010.js.map",
+    "static/js/2.b53c8b4d.chunk.js": "/board-game-intensifier/static/js/2.b53c8b4d.chunk.js",
+    "static/js/2.b53c8b4d.chunk.js.map": "/board-game-intensifier/static/js/2.b53c8b4d.chunk.js.map",
     "index.html": "/board-game-intensifier/index.html",
-    "precache-manifest.b0560d944fcd8fa9ddf9f70132e1b010.js": "/board-game-intensifier/precache-manifest.b0560d944fcd8fa9ddf9f70132e1b010.js",
+    "precache-manifest.e8cb8943aa30d1495e86b3805ea14963.js": "/board-game-intensifier/precache-manifest.e8cb8943aa30d1495e86b3805ea14963.js",
     "service-worker.js": "/board-game-intensifier/service-worker.js",
-    "static/css/main.555d3e52.chunk.css.map": "/board-game-intensifier/static/css/main.555d3e52.chunk.css.map",
+    "static/css/main.18f934c7.chunk.css.map": "/board-game-intensifier/static/css/main.18f934c7.chunk.css.map",
+    "static/js/2.b53c8b4d.chunk.js.LICENSE.txt": "/board-game-intensifier/static/js/2.b53c8b4d.chunk.js.LICENSE.txt",
     "static/media/are-you-sure.mp3": "/board-game-intensifier/static/media/are-you-sure.cc4c01dc.mp3",
     "static/media/chris-tarrent.mp3": "/board-game-intensifier/static/media/chris-tarrent.6b68adc0.mp3",
     "static/media/clock-telephone.mp3": "/board-game-intensifier/static/media/clock-telephone.24abf496.mp3",
@@ -24,9 +25,9 @@
     "static/media/wrong-answer-2.mp3": "/board-game-intensifier/static/media/wrong-answer-2.d02d38e3.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ae6c97b.js",
-    "static/js/2.d7866121.chunk.js",
-    "static/css/main.555d3e52.chunk.css",
-    "static/js/main.a764f332.chunk.js"
+    "static/js/runtime-main.69380010.js",
+    "static/js/2.b53c8b4d.chunk.js",
+    "static/css/main.18f934c7.chunk.css",
+    "static/js/main.38df06ff.chunk.js"
   ]
 }
